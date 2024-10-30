@@ -1,0 +1,77 @@
+msgid "The calender is updated"
+msgstr ""
+
+msgid "Begin"
+msgstr ""
+
+msgid "o'clock"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Previous month"
+msgstr ""
+
+msgid "Next month"
+msgstr ""
+
+msgid "Event details"
+msgstr ""
+
+msgid "Refresh calendar"
+msgstr ""
+
+msgid "The calendar is automatically updated every 48 hours. If there are important changes to the calendar, the update can also be initiated manually."
+msgstr ""
+
+msgid "Last update"
+msgstr ""
+
+msgid "N/A"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
+
+msgid "Calendar URL"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Fuchsia"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
+msgid "The settings were saved"
+msgstr ""
+
+msgid "Event"
+msgstr ""
